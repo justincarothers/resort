@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  text-align: left;
+
+}
+
+.navbar {
+  text-align: center;
+  color: green;
+  font-family: sans-serif;
+  font-weight: 100;
+
+}
+a:hover {
+  font-weight:bolder;
+  color: yellow;
+}
+
+#imgs{ display: inline-block; padding:10px; border:black double 10px;
+}
+.img {border:black solid 1px; max-width: 400px; display: inline-block}
+.desc {
+  text-align: center; background-color: #fff;
+}
+.btn {
+text-align: center;}
