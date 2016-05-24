@@ -1,12 +1,12 @@
 body {
-  background-color: hotpink;
+  background-color: green;
   text-align: center;
 
 }
 
 .navbar {
   text-align: right;
-  color: black;
+  color: purple;
   font-family: sans-serif;
   font-weight: 600;
 
